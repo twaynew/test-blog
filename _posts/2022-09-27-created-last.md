@@ -1,6 +1,6 @@
 ---
 title: "last entry"
-date: 2023-01-20
+date: 2022-09-30
 ---
 
 asl;kfj endo of lina;lskf;slkfj line end?..........................wrap yet?a;sjf;alsk  as;kflj;askljf;alskjf;klj wrapping yet???? how about now???
