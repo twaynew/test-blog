@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "last entry"
 date: 2022-09-27
 ---
