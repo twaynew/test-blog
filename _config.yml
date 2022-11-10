@@ -1,3 +1,4 @@
 theme: minima
 description: testing the description
 markdown: kramdown
+highlighter : rouge
